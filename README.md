@@ -6,7 +6,7 @@ Hey, my name is Jacob Alonzo and I'm currently a senior. Some of my hobbies incl
 ### Favorite Games
 Here are some of my favorite games:
 <ul>
-  <li>Minercraft</li>
+  <li>Minecraft</li>
   <li>Pokemon</li>
   <li>Among Us</li>
 </ul>

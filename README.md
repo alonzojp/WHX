@@ -14,5 +14,5 @@ Here are some of my favorite games:
 ### Editing and Recording Videos
 I edit and record videos for my youtube channel, though I upload pretty randomly and in short bursts.
 
-![Editing](Editing.png)
+![Editing](Editing.PNG)
 Here is a screenshot of the software I use to edit videos.

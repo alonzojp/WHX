@@ -10,6 +10,7 @@ Here are some of my favorite games:
   <li>Pokemon</li>
   <li>Among Us</li>
 </ul>
+
 ![MinecraftLogo](LogoMinecraft.png)
 
 ### Editing and Recording Videos

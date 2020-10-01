@@ -17,4 +17,4 @@ Here are some of my favorite games:
 I edit and record videos for my youtube channel, though I upload pretty randomly and in short bursts.
 
 ![Editing](Editing.PNG)
-Here is a screenshot of the software I use to edit videos.
+Here is a screenshot of the software I use to edit videos. (Sony Vegas Pro 14)

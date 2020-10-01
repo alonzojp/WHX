@@ -9,3 +9,6 @@ Here are some of my favorite games:
   <li>Minercraft</li>
   <li>Pokemon</li>
   <li>Among Us</li>
+  
+  ### Favorite Games
+

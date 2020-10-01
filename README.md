@@ -18,3 +18,5 @@ I edit and record videos for my youtube channel, though I upload pretty randomly
 
 ![Editing](Editing.PNG)
 Here is a screenshot of the software I use to edit videos. (Sony Vegas Pro 14)
+
+This is a link to my youtube channel: [MCEndercraft](https://www.youtube.com/c/MCEndercraft/)

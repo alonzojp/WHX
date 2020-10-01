@@ -10,7 +10,7 @@ Here are some of my favorite games:
   <li>Pokemon</li>
   <li>Among Us</li>
 </ul>
-
+![
 ### Editing and Recording Videos
 I edit and record videos for my youtube channel, though I upload pretty randomly and in short bursts.
 

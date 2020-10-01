@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-Hey, my name is Jacob Alonzo and I'm currently a senior at Whitney High School. Some of my hobbies include playing video games with friends and editing and recording videos.
+Hey, my name is Jacob Alonzo and I'm currently a senior. Some of my hobbies include playing video games with friends and editing and recording videos.
 
 ### Favorite Games
 Here are some of my favorite games:
@@ -10,5 +10,5 @@ Here are some of my favorite games:
   <li>Pokemon</li>
   <li>Among Us</li>
   
-  ### Favorite Games
-
+### Editing and Recording Videos
+I edit and record videos for my youtube channel, though I upload pretty randomly and in short bursts.
